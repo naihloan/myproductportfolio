@@ -1,6 +1,8 @@
 ---
 permalink: /now/
 title: "Now"
+layout: splash
+author_profile: false
 header:
   image: /assets/pics/banner.png
   teaser: /assets/pics/banner.png
@@ -39,6 +41,28 @@ FinTech, social impact, and media.*
 
 \[tags: \#crypto \#IP-rights \#real-world-assets \#music \#streaming \#NFTs \#AI \#B2C \#B2B2C\]
 
+
+## Portfolio & Product Thinking
+
+I like hackathons and ideating new projects.
+
+Building thru March--September, 2023.
+
+<p>
+3-Minute Pitch: Giver<a href="https://youtu.be/0ZllEEaVkq0?t=5203"><span class="citation" data-cites="ETHargentina">@ETHargentina</span> 2023</a>
+<a href="https://youtu.be/0ZllEEaVkq0?t=5203"> https://youtu.be/0ZllEEaVkq0?t=5203 </a>
+</p>
+<!-- 16:9 aspect ratio -->
+<div class="embed-responsive embed-responsive-16by9">
+<p><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/0ZllEEaVkq0" title="Ethereum Argentina - Live Streaming - Sala GOERLI - 19/08" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+</div>
+
+<div>
+{{ "
+
+[See More](../portfolio)
+
+
 ## Music & Bass
 
 I've played bass for some 4 years. During 2024 I've been rehearsing with
@@ -66,36 +90,14 @@ Songs we play:
 * Gimme Some Lovin’ Song - The Blues Brothers
 
 
-## Portfolio & Product Thinking
-
-I like hackathons and ideating new projects.
-
-Building thru March--September, 2023.
-
-<p>
-3-Minute Pitch: Giver<a href="https://youtu.be/0ZllEEaVkq0?t=5203"><span class="citation" data-cites="ETHargentina">@ETHargentina</span> 2023</a> </br> <a href="https://youtu.be/0ZllEEaVkq0?t=5203"> https://youtu.be/0ZllEEaVkq0?t=5203 </a>
-</p>
-<!-- 16:9 aspect ratio -->
-<div class="embed-responsive embed-responsive-16by9">
-<p><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/0ZllEEaVkq0" title="Ethereum Argentina - Live Streaming - Sala GOERLI - 19/08" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
-</div>
-<!-- 4:3 aspect ratio -->
-<div class="embed-responsive embed-responsive-4by3">
-<p><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/0ZllEEaVkq0" title="Ethereum Argentina - Live Streaming - Sala GOERLI - 19/08" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
-
-<div>
-{{ "
-
-[See More](../portfolio)
-
 ------------------------------------------------------------------------
 
 ### See More about my Profile and Site
 
--   [My Portfolio](../portfolio)
+-   [My CV](../assets/docs/cv/benji-cv.pdf)
 -   [My Strengths and Career
     Goals](../assets/docs/mygoals/mygoals.pdf)
--   [My Resume](../assets/docs/cv/benji-cv.pdf)
+-   [My Portfolio](../portfolio)
 -   [The /Now Page Movement](https://sive.rs/nowff) by [Derek
     Sivers](https://sive.rs)
 

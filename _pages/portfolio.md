@@ -20,3 +20,20 @@ Products Launched {#products-launched}
 
 {% include feature_row id="row2" %}
 
+
+![alt text](/assets/pics/newm.png "Title")
+
+![alt text](/assets/pics/newm-studio.png "Title")
+
+![alt text](/assets/pics/newm-mrkt.png "Title")
+
+![alt text](/assets/pics/newm-trs.png "Title")
+
+![alt text](/assets/pics/newm-app.png "Title")
+
+![alt text](/assets/pics/trust-pay.png "Title")
+
+![alt text](/assets/pics/trust-pay-brief.png "Title")
+
+![alt text](/assets/pics/giver-mrkt.png "Title")
+
