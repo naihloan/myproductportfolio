@@ -1,8 +1,105 @@
 ---
 permalink: /now/
 title: "Now"
+header:
+  image: /assets/pics/banner.png
+  teaser: /assets/pics/banner.png
+feature_row:
+  - image_path: /assets/pics/newm.png
+    alt: "NEWM Ecosystem"
+    title: "NEWM Ecosystem"
+    excerpt: "There was no release plan strategy. As the 1st full-time product manager, I implemented agile ceremonies, backlog grooming, and follow-ups across more than 5+ teams. Teams gathered with PRDs, fluid communication and a solid timeline."
+    url: "https://newm.io/"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+<aside>
+Updated: 2025-01-16
+</aside>
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+This page answers the question "What are you up to these days?"
+
+## Working: Product & Web3/Blockchain/Crypto {#working}
+
+Product Manager @ NEWM. I love working to better the music world: we're
+aiming to take better care of both independent rising musicians and
+listeners. See More in [My Portfolio](../portfolio).
+
+## Career: Product {#career}
+
+What am I very good at? Figuring out strengths and goals in a
+[1-pager](../assets/docs/mygoals/mygoals.pdf).
+What can I offer to the market that the market also wants? My
+Candidate-Market Fit \[CMF\](\*):
+
+*Seeking a Senior Product Manager role at an early stage Crypto startup,
+with focus on design and user experience (UX), on industries like
+FinTech, social impact, and media.*
+
+\[tags: \#crypto \#IP-rights \#real-world-assets \#music \#streaming \#NFTs \#AI \#B2C \#B2B2C\]
+
+## Music & Bass
+
+I've played bass for some 4 years. During 2024 I've been rehearsing with
+a power trio band: Sinapsys.
+
+Songs we play:
+
+* La Rama - NTVG
+* Shine - Las Pelotas
+* Vuelve a casa - Attaque 77
+* Poison Heart - Ramones
+* Creep - Radiohead
+* Represión - Violadores
+* Edda - Attaque 77
+* Descontrolado - Jóvenes Pordioseros
+* In Bloom - Nirvana
+* Peaky Blinders - Los Perez García
+* Ella Dijo - Estelares
+* El Tesoro - El Mató A Un Policía Motorizado
+* La Vida - Gonzalo Funes
+* Fantasma - Los Piojos
+* Al Escenario De Tus Labios - Gonzalo Funes
+* Más o Menos Bien - El Mató Un Policia Motorizado
+* Todo Sigue Igual - Viejas Locas
+* Gimme Some Lovin’ Song - The Blues Brothers
+
+
+## Portfolio & Product Thinking
+
+I like hackathons and ideating new projects.
+
+Building thru March--September, 2023.
+
+<p>
+3-Minute Pitch: Giver<a href="https://youtu.be/0ZllEEaVkq0?t=5203"><span class="citation" data-cites="ETHargentina">@ETHargentina</span> 2023</a> </br> <a href="https://youtu.be/0ZllEEaVkq0?t=5203"> https://youtu.be/0ZllEEaVkq0?t=5203 </a>
+</p>
+<!-- 16:9 aspect ratio -->
+<div class="embed-responsive embed-responsive-16by9">
+<p><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/0ZllEEaVkq0" title="Ethereum Argentina - Live Streaming - Sala GOERLI - 19/08" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+</div>
+<!-- 4:3 aspect ratio -->
+<div class="embed-responsive embed-responsive-4by3">
+<p><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/0ZllEEaVkq0" title="Ethereum Argentina - Live Streaming - Sala GOERLI - 19/08" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<div>
+{{ "
+
+[See More](../portfolio)
+
+------------------------------------------------------------------------
+
+### See More about my Profile and Site
+
+-   [My Portfolio](../portfolio)
+-   [My Strengths and Career
+    Goals](../assets/docs/mygoals/mygoals.pdf)
+-   [My Resume](../assets/docs/cv/benji-cv.pdf)
+-   [The /Now Page Movement](https://sive.rs/nowff) by [Derek
+    Sivers](https://sive.rs)
+
+" | markdownify }}
+</div>
+
+

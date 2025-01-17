@@ -1,8 +1,22 @@
 ---
+title: My Product Portfolio
+layout: collection
 permalink: /portfolio/
-title: "Portfolio"
+collection: portfolio
+entries_layout: grid
+classes: wide
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hi! I’m Benji, a Product Manager.
+My portfolio shows how I’ve delivered results with strategy and collaboration.
+Most things here belong to collective efforts.
+Here are some of my works, in the spirit of [OnePage/OneHour](https://www.onepageonehour.com/about).
+I share results, my thinking process and projects.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Products Launched {#products-launched}
+=================
+
+{% include feature_row %}
+
+{% include feature_row id="row2" %}
+

@@ -1,5 +1,5 @@
 ---
-title: "Post: Quote"
+title: "Post: Quote, Jane McGonigal [ gaming and play ]"
 categories:
   - Blog
 tags:
@@ -7,6 +7,8 @@ tags:
   - quote
 ---
 
-> Only one thing is impossible for God: To find any sense in any copyright law on the planet.
-  
-> <cite><a href="http://www.brainyquote.com/quotes/quotes/m/marktwain163473.html">Mark Twain</a></cite>
+>
+We play  
+not to avoid losing but  
+to find out what we are capable of  
+> <cite><a href="https://twitter.com/avantgame">Jane McGonigal</a></cite>
