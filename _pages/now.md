@@ -8,15 +8,10 @@ author_profile: false
   # teaser: /assets/pics/banner.png
 ---
 
-{% include 
-
 <aside>
 Updated: 2025-01-16
-
 This page answers the question "What are you up to these days?"
 </aside>
-%}
-
 
 ## Working: Product & Web3/Blockchain/Crypto {#working}
 
