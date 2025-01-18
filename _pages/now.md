@@ -3,24 +3,20 @@ permalink: /now/
 title: "Now"
 layout: splash
 author_profile: false
-header:
-  image: /assets/pics/banner.png
-  teaser: /assets/pics/banner.png
-feature_row:
-  - image_path: /assets/pics/newm.png
-    alt: "NEWM Ecosystem"
-    title: "NEWM Ecosystem"
-    excerpt: "There was no release plan strategy. As the 1st full-time product manager, I implemented agile ceremonies, backlog grooming, and follow-ups across more than 5+ teams. Teams gathered with PRDs, fluid communication and a solid timeline."
-    url: "https://newm.io/"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
+# header:
+  # image: /assets/pics/banner.png
+  # teaser: /assets/pics/banner.png
 ---
+
+{% include 
 
 <aside>
 Updated: 2025-01-16
-</aside>
 
 This page answers the question "What are you up to these days?"
+</aside>
+%}
+
 
 ## Working: Product & Web3/Blockchain/Crypto {#working}
 

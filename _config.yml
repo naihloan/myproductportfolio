@@ -22,7 +22,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 twitter_username: venhamon  
-github_username: naihloan
+  # github_username: naihloan
 minimal_mistakes_skin: default
   # search: true
 
@@ -79,12 +79,27 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    # - label: "Telegram"
+    # icon: "fab fa-telegram-square"
+    # url: "https://telegram.com/venhamon"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      icon: "fab fa-fw fa-github-square"
+      url: "https://github.com/venhamon"
+        # - label: "Twitter"
+        # icon: "fab fa-fw fa-twitter-square"
+        # url: "https://twitter.com/venhamon"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/bj-pm/"
+    - label: "StackExchange"
+      icon: "fab fa-fw fa-stack-exchange"
+      url: "https://stackexchange.com/users/7442009/nilon"
+    - label: "Email"
+      icon: "fa fa-fw fa-envelope"
+      url: "venhamon@gmail.com"
+        # - label: "Twitter"
+        # icon: "fab fa-fw fa-twitter-square"
+        # url: "https://twitter.com/venhamon"
         # - label: "Instagram"
         # icon: "fab fa-fw fa-instagram"
         # url: "https://instagram.com/"
